@@ -314,7 +314,3 @@ ul {
     color: #F4F4FD;
     max-width: 264px;
 }
-
-.deneme-card{
-    width:calc((100%-72px)/4);
-}
