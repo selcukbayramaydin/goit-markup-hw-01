@@ -218,7 +218,7 @@ ul {
     gap: 24px;
 }
 
-.section-ul .list.section-third-list {
+.section-ul .list .section-third-list {
     width: calc((100% - 48px) / 4);
 }
 
@@ -228,7 +228,7 @@ ul {
     row-gap: 48px;
 }
 
-.section-ul.four .list.last {
+.section-ul .four .list .last {
     margin-bottom: 48px;
     width: calc((100% - 48px) / 3);
 }
@@ -248,7 +248,7 @@ ul {
     border-radius: 0px 0px 4px 4px;
 }
 
-.section-ul .list.section-second-list {
+.section-ul .list .section-second-list {
     width: calc((100% - 72px) / 4);
 }
 
