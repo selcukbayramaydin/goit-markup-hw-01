@@ -227,7 +227,7 @@ ul {
     padding: 120px 0
 }
 
-.section-ul .four .list .last {
+.section-ul .list-last  {
     margin-bottom: 48px;
     width: calc((100% - 48px) / 3);
 }
