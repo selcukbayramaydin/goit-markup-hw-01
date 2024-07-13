@@ -5,7 +5,7 @@
     margin: 0;
     padding: 0;
 }
-
+/* burası body */
 body {
     font-family: 'Roboto', sans-serif;
     color: #434455;
@@ -85,11 +85,9 @@ ul {
 .header-menu {
     display: flex;
     gap: 40px;
-}
-
-.header-menu .list:last-child {
     margin-right: 0;
 }
+
 
 .header-menu .list .etiket {
     font-weight: 500;
@@ -226,6 +224,7 @@ ul {
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
+    padding: 120px 0
 }
 
 .section-ul .four .list .last {
