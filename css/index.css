@@ -251,7 +251,10 @@ ul {
 }
 
 .card {
-    padding: 0px;
+    padding: 32px 16px;
+    border: 1px;
+    border-top: none;
+    margin-bottom: 8px;
     text-align: center;
 }
 
